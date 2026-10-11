@@ -1,0 +1,32 @@
+MINHA AGENDA — PROGRAMAÇÃO SEMANAL
+
+OPÇÃO 1: USAR SEM INSTALAR
+Abra o arquivo "index.html" no Chrome, Edge ou Firefox.
+A agenda funciona mesmo sem internet.
+Os dados são guardados automaticamente no armazenamento local do navegador.
+Abra sempre o MESMO arquivo no MESMO navegador para encontrar sua agenda.
+
+OPÇÃO 2: INSTALAR COMO APLICATIVO (PWA)
+Para aparecer "Instalar aplicativo" no Chrome/Edge, é preciso publicar esta pasta
+em hospedagem HTTPS (por exemplo GitHub Pages ou Netlify), mantendo todos os
+arquivos juntos. Depois abra o endereço no navegador e use "Instalar" ou
+"Adicionar à tela inicial". Abrir via file:// não permite instalar a PWA.
+
+COMO USAR
+- Clique em um horário ("Disponível") para inserir ou alterar a atividade.
+- Escolha início e término; pode deixar os horários em branco.
+- Clique no círculo à direita para marcar a tarefa como concluída ou pendente.
+- Use "+ Adicionar horário" para criar novos campos.
+- Navegue pelas semanas com as setas.
+- Clique em "Mês / Ano" no canto superior direito para trocar de mês e ano.
+- O botão "Duplicar semana" copia os horários e atividades para a próxima,
+  deixando os checks desmarcados.
+- Em "Opções" você pode exportar ou importar um backup .json.
+
+IMPORTANTE SOBRE SALVAMENTO
+As informações não são enviadas para a nuvem: elas pertencem ao armazenamento
+do navegador/dispositivo. Limpar os dados do navegador, abrir em outro navegador,
+usar modo anônimo, ou mudar o endereço do arquivo pode fazer os dados não aparecerem.
+Exporte backups periodicamente em "Opções > Exportar backup".
+
+Esta versão é uma aplicação web local, não um APK/EXE nativo.
